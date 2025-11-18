@@ -5,6 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+  <a href="https://www.linkedin.com/in/apetit01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
